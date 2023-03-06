@@ -2,15 +2,109 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts | Nan Cheng</title>
-    <link>https://athenking.github.io/post/</link>
-      <atom:link href="https://athenking.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://nann-cheng.github.io/post/</link>
+      <atom:link href="https://nann-cheng.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     <description>Posts</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 06 Mar 2023 14:43:43 +0100</lastBuildDate>
     <image>
-      <url>https://athenking.github.io/images/icon_huaeddb2d2143457a300fd6f50d6ed1704_4350_512x512_fill_lanczos_center_2.png</url>
+      <url>https://nann-cheng.github.io/images/icon_huaeddb2d2143457a300fd6f50d6ed1704_4350_512x512_fill_lanczos_center_2.png</url>
       <title>Posts</title>
-      <link>https://athenking.github.io/post/</link>
+      <link>https://nann-cheng.github.io/post/</link>
     </image>
+    
+    <item>
+      <title>Crypto and Security conference schedule</title>
+      <link>https://nann-cheng.github.io/post/paper_deadlines/</link>
+      <pubDate>Mon, 06 Mar 2023 14:43:43 +0100</pubDate>
+      <guid>https://nann-cheng.github.io/post/paper_deadlines/</guid>
+      <description>&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Venues&lt;/th&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;Submission&lt;/th&gt;
+&lt;th style=&#34;text-align:right&#34;&gt;Early Rejection&lt;/th&gt;
+&lt;th style=&#34;text-align:right&#34;&gt;Rebuttal&lt;/th&gt;
+&lt;th style=&#34;text-align:right&#34;&gt;Final Notification&lt;/th&gt;
+&lt;th style=&#34;text-align:right&#34;&gt;Camera Ready&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;S&amp;amp;P (&lt;a href=&#34;https://sp2023.ieee-security.org/cfpapers.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Third issue&lt;/a&gt;)&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;2 Dec 2022&lt;/td&gt;
+&lt;td style=&#34;text-align:right&#34;&gt;23 Jan 2023&lt;/td&gt;
+&lt;td style=&#34;text-align:right&#34;&gt;21 Feb-7 Mar 2023&lt;/td&gt;
+&lt;td style=&#34;text-align:right&#34;&gt;10 Mar 2023&lt;/td&gt;
+&lt;td style=&#34;text-align:right&#34;&gt;7 Apr 2023&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;AsiaCCS2023 (&lt;a href=&#34;https://asiaccs2023.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Second issue&lt;/a&gt;)&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;15 Dec 2022&lt;/td&gt;
+&lt;td style=&#34;text-align:right&#34;&gt;30 Jan 2023&lt;/td&gt;
+&lt;td style=&#34;text-align:right&#34;&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:right&#34;&gt;22 Mar 2023&lt;/td&gt;
+&lt;td style=&#34;text-align:right&#34;&gt;4 Apr 2023&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Esorics (&lt;a href=&#34;https://www.esorics2023.org/call/papers/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;First issue&lt;/a&gt;)&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;22 Jan 2023&lt;/td&gt;
+&lt;td style=&#34;text-align:right&#34;&gt;26 Mar 2023&lt;/td&gt;
+&lt;td style=&#34;text-align:right&#34;&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:right&#34;&gt;2 Apr 2023&lt;/td&gt;
+&lt;td style=&#34;text-align:right&#34;&gt;20 Aug 2023&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;a href=&#34;https://www.ieee-security.org/TC/CSF2023/cfp.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CSF2023&lt;/a&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;3 Feb 2023&lt;/td&gt;
+&lt;td style=&#34;text-align:right&#34;&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:right&#34;&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:right&#34;&gt;7 Apr 2023&lt;/td&gt;
+&lt;td style=&#34;text-align:right&#34;&gt;15 June 2023&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;USENIX2023 (&lt;a href=&#34;https://www.usenix.org/conference/usenixsecurity23/call-for-papers&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Winter deadline)&lt;/a&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;7 Feb 2023&lt;/td&gt;
+&lt;td style=&#34;text-align:right&#34;&gt;17 Mar 2023&lt;/td&gt;
+&lt;td style=&#34;text-align:right&#34;&gt;April 24–26 2023&lt;/td&gt;
+&lt;td style=&#34;text-align:right&#34;&gt;8 May 2023&lt;/td&gt;
+&lt;td style=&#34;text-align:right&#34;&gt;13 Jun 2023&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;a href=&#34;https://crypto.iacr.org/2023/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CRYPTO2023&lt;/a&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;16 Feb 2023&lt;/td&gt;
+&lt;td style=&#34;text-align:right&#34;&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:right&#34;&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:right&#34;&gt;5 May 2023&lt;/td&gt;
+&lt;td style=&#34;text-align:right&#34;&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;a href=&#34;https://asiacrypt.iacr.org&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;AsiaCrypto2023&lt;/a&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;Waiting&lt;/td&gt;
+&lt;td style=&#34;text-align:right&#34;&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:right&#34;&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:right&#34;&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:right&#34;&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;a href=&#34;https://petsymposium.org/cfp23.php&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;PETS2023&lt;/a&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;Feb 28 2023&lt;/td&gt;
+&lt;td style=&#34;text-align:right&#34;&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:right&#34;&gt;Apr 10–14 2023&lt;/td&gt;
+&lt;td style=&#34;text-align:right&#34;&gt;1 May 2023&lt;/td&gt;
+&lt;td style=&#34;text-align:right&#34;&gt;15 June 2023&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Esorics (&lt;a href=&#34;https://www.esorics2023.org/call/papers/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Second issue&lt;/a&gt;)&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;28 May 2023&lt;/td&gt;
+&lt;td style=&#34;text-align:right&#34;&gt;23 Jul 2023&lt;/td&gt;
+&lt;td style=&#34;text-align:right&#34;&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:right&#34;&gt;30 Jul 2023&lt;/td&gt;
+&lt;td style=&#34;text-align:right&#34;&gt;20 Aug 2023&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+</description>
+    </item>
     
   </channel>
 </rss>
