@@ -79,14 +79,6 @@
 &lt;td&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
-&lt;td&gt;&lt;a href=&#34;https://asiacrypt.iacr.org&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;AsiaCrypto2023&lt;/a&gt;&lt;/td&gt;
-&lt;td&gt;Waiting&lt;/td&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
 &lt;td&gt;&lt;a href=&#34;https://petsymposium.org/cfp23.php&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;PETS2023&lt;/a&gt;&lt;/td&gt;
 &lt;td&gt;Feb 28 2023&lt;/td&gt;
 &lt;td&gt;&lt;/td&gt;
@@ -94,48 +86,16 @@
 &lt;td&gt;1 May 2023&lt;/td&gt;
 &lt;td&gt;15 June 2023&lt;/td&gt;
 &lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;&lt;a href=&#34;https://www.acsac.org/2023/submissions/papers/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ACSAC2023&lt;/a&gt;&lt;/td&gt;
-&lt;td&gt;22 &amp;amp; 26 May 2023&lt;/td&gt;
-&lt;td&gt;6 Jul 2023&lt;/td&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;td&gt;2-7 Aug 2023&lt;/td&gt;
-&lt;td&gt;16 Aug 2023&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;Esorics (&lt;a href=&#34;https://www.esorics2023.org/call/papers/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Second issue&lt;/a&gt;)&lt;/td&gt;
-&lt;td&gt;28 May 2023&lt;/td&gt;
-&lt;td&gt;23 Jul 2023&lt;/td&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;td&gt;30 Jul 2023&lt;/td&gt;
-&lt;td&gt;20 Aug 2023&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;&lt;a href=&#34;https://provsec2023.github.io/ProvSec2023/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ProvSec 2023&lt;/a&gt;&lt;/td&gt;
-&lt;td&gt;12 March 2023&lt;/td&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;td&gt;30 Apr 2023&lt;/td&gt;
-&lt;td&gt;10 May 2023&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;&lt;a href=&#34;https://provsec2023.github.io/ProvSec2023/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Information Security Conference (ISC) 2023&lt;/a&gt;&lt;/td&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;&lt;a href=&#34;https://provsec2023.github.io/ProvSec2023/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Symposium on Applied Computing (SAC) 2024&lt;/a&gt;&lt;/td&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;/tr&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;
+&lt;p&gt;&amp;mdash;&amp;ndash;Avaliable&amp;mdash;&amp;mdash;&amp;ndash;&lt;/p&gt;
+&lt;p&gt;| &lt;a href=&#34;https://provsec2023.github.io/ProvSec2023/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ProvSec 2023&lt;/a&gt;| 12 March 2023|  | |30 Apr 2023 |10 May 2023 |
+| ❗️&lt;a href=&#34;https://www.acsac.org/2023/submissions/papers/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CCS2023&lt;/a&gt; |  4 May 2023 |  | | | |
+| &lt;a href=&#34;https://www.acsac.org/2023/submissions/papers/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ACSAC2023&lt;/a&gt; |  22 &amp;amp; 26 May 2023 | 6 Jul 2023 | |2-7 Aug 2023 | 16 Aug 2023|
+| Esorics (&lt;a href=&#34;https://www.esorics2023.org/call/papers/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Second issue&lt;/a&gt;) |  28 May 2023 | 23 Jul 2023 | |30 Jul 2023 | 20 Aug 2023|
+| &lt;a href=&#34;https://provsec2023.github.io/ProvSec2023/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Information Security Conference (ISC) 2023&lt;/a&gt;| |  | | | |
+| &lt;a href=&#34;https://provsec2023.github.io/ProvSec2023/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Symposium on Applied Computing (SAC) 2024&lt;/a&gt;| |  | | | |
+| &lt;a href=&#34;https://asiacrypt.iacr.org&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;AsiaCrypto2023&lt;/a&gt;  |  |  | | | |&lt;/p&gt;
 </description>
     </item>
     
