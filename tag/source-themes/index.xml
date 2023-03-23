@@ -1,19 +1,24 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Source Themes on Nan Cheng</title>
+    <title>Source Themes | Nan Cheng</title>
     <link>https://nann-cheng.github.io/tag/source-themes/</link>
-    <description>Recent content in Source Themes on Nan Cheng</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Wed, 07 Oct 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://nann-cheng.github.io/tag/source-themes/index.xml" rel="self" type="application/rss+xml" />
+      <atom:link href="https://nann-cheng.github.io/tag/source-themes/index.xml" rel="self" type="application/rss+xml" />
+    <description>Source Themes</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 07 Oct 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://nann-cheng.github.io/images/icon_huaeddb2d2143457a300fd6f50d6ed1704_4350_512x512_fill_lanczos_center_3.png</url>
+      <title>Source Themes</title>
+      <link>https://nann-cheng.github.io/tag/source-themes/</link>
+    </image>
+    
     <item>
       <title>An efficient approach regarding two party private set union/intersection cardinality</title>
       <link>https://nann-cheng.github.io/publication/preprint/</link>
       <pubDate>Wed, 07 Oct 2020 00:00:00 +0000</pubDate>
-      
       <guid>https://nann-cheng.github.io/publication/preprint/</guid>
-      <description>The two-party private set union/intersection cardinality problems (PSI/PSU-CA) are among the privacy-preserving computing problems, which are also fundamental and essential. They require that after protocol execution, at least one of the two parties gets their intersection/union cardinality securely with neither one leaked any other extra information to the other.</description>
+      <description>&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code and math&lt;/a&gt;.&lt;/p&gt;
+</description>
     </item>
     
   </channel>
