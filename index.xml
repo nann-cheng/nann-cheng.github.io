@@ -1,187 +1,29 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Nan Cheng</title>
     <link>https://nann-cheng.github.io/</link>
-      <atom:link href="https://nann-cheng.github.io/index.xml" rel="self" type="application/rss+xml" />
-    <description>Nan Cheng</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 06 Mar 2023 14:43:43 +0100</lastBuildDate>
-    <image>
-      <url>https://nann-cheng.github.io/images/icon_huaeddb2d2143457a300fd6f50d6ed1704_4350_512x512_fill_lanczos_center_2.png</url>
-      <title>Nan Cheng</title>
-      <link>https://nann-cheng.github.io/</link>
-    </image>
-    
+    <description>Recent content on Nan Cheng</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 06 Mar 2023 14:43:43 +0100</lastBuildDate><atom:link href="https://nann-cheng.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Crypto and Security conference schedule</title>
       <link>https://nann-cheng.github.io/post/paper_deadlines/</link>
       <pubDate>Mon, 06 Mar 2023 14:43:43 +0100</pubDate>
+      
       <guid>https://nann-cheng.github.io/post/paper_deadlines/</guid>
-      <description>&lt;p&gt;Here is a detailed link to &lt;a href=&#34;https://iacr.org/events/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;IACR events&lt;/a&gt;.&lt;/p&gt;
-&lt;table&gt;
-&lt;thead&gt;
-&lt;tr&gt;
-&lt;th&gt;Venues&lt;/th&gt;
-&lt;th&gt;Submission&lt;/th&gt;
-&lt;th&gt;Early Rejection&lt;/th&gt;
-&lt;th&gt;Rebuttal&lt;/th&gt;
-&lt;th&gt;Final Notification&lt;/th&gt;
-&lt;th&gt;Camera Ready&lt;/th&gt;
-&lt;/tr&gt;
-&lt;/thead&gt;
-&lt;tbody&gt;
-&lt;tr&gt;
-&lt;td&gt;S&amp;amp;P (&lt;a href=&#34;https://sp2023.ieee-security.org/cfpapers.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Third issue&lt;/a&gt;)&lt;/td&gt;
-&lt;td&gt;2 Dec 2022&lt;/td&gt;
-&lt;td&gt;23 Jan 2023&lt;/td&gt;
-&lt;td&gt;21 Feb-7 Mar 2023&lt;/td&gt;
-&lt;td&gt;10 Mar 2023&lt;/td&gt;
-&lt;td&gt;7 Apr 2023&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;AsiaCCS2023 (&lt;a href=&#34;https://asiaccs2023.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Second issue&lt;/a&gt;)&lt;/td&gt;
-&lt;td&gt;15 Dec 2022&lt;/td&gt;
-&lt;td&gt;30 Jan 2023&lt;/td&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;td&gt;22 Mar 2023&lt;/td&gt;
-&lt;td&gt;4 Apr 2023&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;Esorics (&lt;a href=&#34;https://www.esorics2023.org/call/papers/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;First issue&lt;/a&gt;)&lt;/td&gt;
-&lt;td&gt;22 Jan 2023&lt;/td&gt;
-&lt;td&gt;26 Mar 2023&lt;/td&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;td&gt;2 Apr 2023&lt;/td&gt;
-&lt;td&gt;20 Aug 2023&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;&lt;a href=&#34;https://www.ieee-security.org/TC/CSF2023/cfp.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CSF2023&lt;/a&gt;&lt;/td&gt;
-&lt;td&gt;3 Feb 2023&lt;/td&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;td&gt;7 Apr 2023&lt;/td&gt;
-&lt;td&gt;15 June 2023&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;USENIX2023 (&lt;a href=&#34;https://www.usenix.org/conference/usenixsecurity23/call-for-papers&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Winter deadline)&lt;/a&gt;&lt;/td&gt;
-&lt;td&gt;7 Feb 2023&lt;/td&gt;
-&lt;td&gt;17 Mar 2023&lt;/td&gt;
-&lt;td&gt;April 24–26 2023&lt;/td&gt;
-&lt;td&gt;8 May 2023&lt;/td&gt;
-&lt;td&gt;13 Jun 2023&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;&lt;a href=&#34;https://crypto.iacr.org/2023/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CRYPTO2023&lt;/a&gt;&lt;/td&gt;
-&lt;td&gt;16 Feb 2023&lt;/td&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;td&gt;5 May 2023&lt;/td&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;&lt;a href=&#34;https://petsymposium.org/cfp23.php&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;PETS2023&lt;/a&gt;&lt;/td&gt;
-&lt;td&gt;Feb 28 2023&lt;/td&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;td&gt;Apr 10–14 2023&lt;/td&gt;
-&lt;td&gt;1 May 2023&lt;/td&gt;
-&lt;td&gt;15 June 2023&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/tbody&gt;
-&lt;/table&gt;
-&lt;p&gt;&amp;mdash;&amp;ndash;Avaliable&amp;mdash;&amp;mdash;&amp;ndash;&lt;/p&gt;
-&lt;table&gt;
-&lt;thead&gt;
-&lt;tr&gt;
-&lt;th&gt;Venues&lt;/th&gt;
-&lt;th&gt;Submission&lt;/th&gt;
-&lt;th&gt;Early Rejection&lt;/th&gt;
-&lt;th&gt;Rebuttal&lt;/th&gt;
-&lt;th&gt;Final Notification&lt;/th&gt;
-&lt;th&gt;Camera Ready&lt;/th&gt;
-&lt;/tr&gt;
-&lt;/thead&gt;
-&lt;tbody&gt;
-&lt;tr&gt;
-&lt;td&gt;&lt;a href=&#34;https://provsec2023.github.io/ProvSec2023/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ProvSec 2023&lt;/a&gt;&lt;/td&gt;
-&lt;td&gt;26 March 2023&lt;/td&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;td&gt;30 Apr 2023&lt;/td&gt;
-&lt;td&gt;10 May 2023&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;👨‍💻&lt;a href=&#34;https://pstnet.ca/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;PST (Privacy, Security and Trust) 2023&lt;/a&gt;&lt;/td&gt;
-&lt;td&gt;April 24, 2023&lt;/td&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;td&gt;June 9, 2023&lt;/td&gt;
-&lt;td&gt;July 1, 2023&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;👨‍💻❗️&lt;a href=&#34;https://www.sigsac.org/ccs/CCS2023/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CCS2023&lt;/a&gt;&lt;/td&gt;
-&lt;td&gt;May 4, 2023&lt;/td&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;&lt;a href=&#34;https://www.acsac.org/2023/submissions/papers/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ACSAC2023&lt;/a&gt;&lt;/td&gt;
-&lt;td&gt;22 &amp;amp; 26 May 2023&lt;/td&gt;
-&lt;td&gt;6 Jul 2023&lt;/td&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;td&gt;2-7 Aug 2023&lt;/td&gt;
-&lt;td&gt;16 Aug 2023&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;Esorics (&lt;a href=&#34;https://www.esorics2023.org/call/papers/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Second issue&lt;/a&gt;)&lt;/td&gt;
-&lt;td&gt;28 May 2023&lt;/td&gt;
-&lt;td&gt;23 Jul 2023&lt;/td&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;td&gt;30 Jul 2023&lt;/td&gt;
-&lt;td&gt;20 Aug 2023&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;&lt;a href=&#34;https://provsec2023.github.io/ProvSec2023/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Information Security Conference (ISC) 2023&lt;/a&gt;&lt;/td&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;&lt;a href=&#34;https://provsec2023.github.io/ProvSec2023/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Symposium on Applied Computing (SAC) 2024&lt;/a&gt;&lt;/td&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;&lt;a href=&#34;https://asiacrypt.iacr.org&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;AsiaCrypto2023&lt;/a&gt;&lt;/td&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/tbody&gt;
-&lt;/table&gt;
-</description>
+      <description>Here is a detailed link to IACR events.
+Venues Submission Early Rejection Rebuttal Final Notification Camera Ready S&amp;amp;P (Third issue) 2 Dec 2022 23 Jan 2023 21 Feb-7 Mar 2023 10 Mar 2023 7 Apr 2023 AsiaCCS2023 (Second issue) 15 Dec 2022 30 Jan 2023 22 Mar 2023 4 Apr 2023 Esorics (First issue) 22 Jan 2023 26 Mar 2023 2 Apr 2023 20 Aug 2023 CSF2023 3 Feb 2023 7 Apr 2023 15 June 2023 USENIX2023 (Winter deadline) 7 Feb 2023 17 Mar 2023 April 24–26 2023 8 May 2023 13 Jun 2023 CRYPTO2023 16 Feb 2023 5 May 2023 PETS2023 Feb 28 2023 Apr 10–14 2023 1 May 2023 15 June 2023 &amp;mdash;&amp;ndash;Avaliable&amp;mdash;&amp;mdash;&amp;ndash;</description>
     </item>
     
     <item>
       <title>An efficient approach regarding two party private set union/intersection cardinality</title>
       <link>https://nann-cheng.github.io/publication/preprint/</link>
       <pubDate>Wed, 07 Oct 2020 00:00:00 +0000</pubDate>
+      
       <guid>https://nann-cheng.github.io/publication/preprint/</guid>
-      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Slides&lt;/em&gt; button above to demo Academic&amp;rsquo;s Markdown slides feature.
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code and math&lt;/a&gt;.&lt;/p&gt;
-</description>
+      <description>The two-party private set union/intersection cardinality problems (PSI/PSU-CA) are among the privacy-preserving computing problems, which are also fundamental and essential. They require that after protocol execution, at least one of the two parties gets their intersection/union cardinality securely with neither one leaked any other extra information to the other.</description>
     </item>
     
   </channel>
