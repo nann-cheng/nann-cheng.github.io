@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Naman Gupta | Nan Cheng</title>
-    <link>https://nann-cheng.github.io/author/naman-gupta/</link>
-      <atom:link href="https://nann-cheng.github.io/author/naman-gupta/index.xml" rel="self" type="application/rss+xml" />
-    <description>Naman Gupta</description>
+    <title>Melek Önen | Nan Cheng</title>
+    <link>https://nann-cheng.github.io/author/melek-onen/</link>
+      <atom:link href="https://nann-cheng.github.io/author/melek-onen/index.xml" rel="self" type="application/rss+xml" />
+    <description>Melek Önen</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
     <image>
       <url>https://nann-cheng.github.io/images/icon_huaeddb2d2143457a300fd6f50d6ed1704_4350_512x512_fill_lanczos_center_3.png</url>
-      <title>Naman Gupta</title>
-      <link>https://nann-cheng.github.io/author/naman-gupta/</link>
+      <title>Melek Önen</title>
+      <link>https://nann-cheng.github.io/author/melek-onen/</link>
     </image>
     
     <item>
-      <title>Constant-Round Private Decision Tree Evaluation for Secret Shared Data [PoPETS 24]</title>
-      <link>https://nann-cheng.github.io/publication/pdte/</link>
+      <title>Nomadic: Normalising Maliciously-Secure Distance with Cosine Similarity for Two-Party Biometric Authentication</title>
+      <link>https://nann-cheng.github.io/publication/condeval/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://nann-cheng.github.io/publication/pdte/</guid>
+      <guid>https://nann-cheng.github.io/publication/condeval/</guid>
       <description>&lt;!-- Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/). --&gt;
 </description>
     </item>
