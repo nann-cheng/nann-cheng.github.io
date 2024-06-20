@@ -1,6 +1,6 @@
 ---
 title: 2024 TPMPC Workshop
-summary: I attended 2024 TPMPC Workshop held at TU Darmstadt.
+summary: I attended the [2024 TPMPC Workshop](https://www.multipartycomputation.com/tpmpc-2024) held at TU Darmstadt.
 date: 2024-06-03
 math: true
 authors:
