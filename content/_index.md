@@ -1,6 +1,6 @@
 ---
 # Leave the homepage title empty to use the site title
-title: ""
+title: "Nan Cheng"
 date: 2022-10-24
 type: landing
 
@@ -34,11 +34,9 @@ sections:
     content:
       title: '📚 My Research'
       subtitle: ''
-      text: |-
-        Use this area to speak to your mission. I'm a research scientist in the Moonshot team at DeepMind. I blog about machine learning, deep learning, and moonshots.
-
-        I apply a range of qualitative and quantitative methods to comprehensively investigate the role of science and technology in the economy.
-        
+      text:  |- 
+        Function secret sharing is a primitive that effectively computes some of the non-liear functionalites in one online evaluation round, at the cost of larger computation overhead at the meantime. My research focuses on multi-party secure computation, specifically on enhancing concrete efficiency through the design of more efficient cryptographic primitives or the development of specialized protocols. These protocols aim to improve efficiency in various secure computation challenges, including Private Set Intersection (PSI), secure machine learning inference, and secure aggregation, etc. My goal is to integrate more efficient MPC technologies into practical applications.
+      
         Please reach out to collaborate 😃
     design:
       columns: '1'
@@ -63,16 +61,16 @@ sections:
         exclude_featured: false
     design:
       view: citation
-  - block: collection
-    id: talks
-    content:
-      title: Recent & Upcoming Talks
-      filters:
-        folders:
-          - event
-    design:
-      view: article-grid
-      columns: 1
+  # - block: collection
+  #   id: talks
+  #   content:
+  #     title: Recent & Upcoming Talks
+  #     filters:
+  #       folders:
+  #         - event
+  #   design:
+  #     view: article-grid
+  #     columns: 1
   - block: collection
     id: news
     content:

@@ -1,18 +1,18 @@
 ---
-title: 👩🏼‍🏫 Teach academic courses
-summary: Embed videos, podcasts, code, LaTeX math, and even test students!
-date: 2023-10-24
+title: 2024 TPMPC Workshop
+summary: I attended 2024 TPMPC Workshop held at TU Darmstadt.
+date: 2024-06-03
 math: true
 authors:
   - admin
-tags:
-  - Hugo
-  - Hugo Blox Builder
-  - Markdown
+# tags:
+#   - Hugo
+#   - Hugo Blox Builder
+#   - Markdown
 image:
-  caption: 'Embed rich media such as videos and LaTeX math'
+  caption: 'TPMPC 2024 || Photo: Daniela Fleckenstein'
 ---
-
+<!-- 
 [Hugo Blox Builder](https://hugoblox.com) is designed to give technical content creators a seamless experience. You can focus on the content and the Hugo Blox Builder which this template is built upon handles the rest.
 
 **Embed videos, podcasts, code, LaTeX math, and even test students!**
@@ -134,4 +134,4 @@ renders as
 
 {{< icon name="python" >}} Python
 
-## Did you find this page helpful? Consider sharing it 🙌
+## Did you find this page helpful? Consider sharing it 🙌 -->
