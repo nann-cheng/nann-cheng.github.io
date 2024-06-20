@@ -50,7 +50,7 @@ url_pdf: 'https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10320199'
 # url_dataset: 'https://github.com/HugoBlox/hugo-blox-builder'
 url_poster: ''
 url_project: ''
-url_slides: '/PST_2023.pdf'
+url_slides: 'uploads/PST_2023.pdf'
 # url_source: 'https://github.com/HugoBlox/hugo-blox-builder'
 # url_video: 'https://youtube.com'
 

@@ -37,7 +37,7 @@ abstract:
 summary: Computing the maximum from a list of secret inputs is a widely-used functionality that is employed either indirectly as a building block in secure computation frameworks, such as ABY (NDSS'15)  or directly used in multiple applications that solve optimisation problems, such as secure machine learning or secure aggregation statistics. {\em Incremental distributed point function} (I-DPF) is a powerful primitive (IEEE S\&P'21) that significantly reduces the client-to-server communication and are employed to efficiently and securely compute aggregation statistics. Our protocols have a communication complexity that is independent of the number of secret inputs and linear to the length of the secret input domain. Our experimental results show enhanced efficiency over state-of-the-art solutions, particularly notable when handling large-scale inputs. For instance, in scenarios involving an input set of five million elements with an input domain size of 31 bits, our protocol \(\Pi_{\mathsf{Max}}\) achieves an $18\%$ reduction in online execution time and a  $67\%$ decrease in communication volume compared to the most efficient existing solution.
 
 tags:
-  - function secret sharing
+  - incremental function secret sharing
 
 # Display this page in the Featured widget?
 featured: true
@@ -47,7 +47,7 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'https://eprint.iacr.org/2023/1684.pdf'
+url_pdf: 'uploads/maxKre.pdf'
 url_code: 'https://github.com/nann-cheng/FSS-KRE'
 # url_dataset: 'https://github.com/HugoBlox/hugo-blox-builder'
 url_poster: ''

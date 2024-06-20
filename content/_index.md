@@ -36,8 +36,10 @@ sections:
       subtitle: ''
       text:  |- 
         Function secret sharing is a primitive that effectively computes some of the non-liear functionalites in one online evaluation round, at the cost of larger computation overhead at the meantime. My research focuses on multi-party secure computation, specifically on enhancing concrete efficiency through the design of more efficient cryptographic primitives or the development of specialized protocols. These protocols aim to improve efficiency in various secure computation challenges, including Private Set Intersection (PSI), secure machine learning inference, and secure aggregation, etc. My goal is to integrate more efficient MPC technologies into practical applications.
-      
-        Please reach out to collaborate 😃
+
+        Recently, in addition to designing concrete MPC protocols, I have been focusing on the application of Pseudorandom Correlated Generators (PCGs).
+
+        If you share similar intersts, please feel free to contact me for collaborations 😃
     design:
       columns: '1'
   - block: collection
