@@ -1,6 +1,6 @@
 ---
 title: 2024 TPMPC Workshop
-summary: I attended the [2024 TPMPC Workshop](https://www.multipartycomputation.com/tpmpc-2024) held at TU Darmstadt.
+summary: I attended the 2024 TPMPC Workshop held at TU Darmstadt.
 date: 2024-06-03
 math: true
 authors:
@@ -12,6 +12,9 @@ authors:
 image:
   caption: 'TPMPC 2024 || Photo: Daniela Fleckenstein'
 ---
+
+<!-- (https://www.multipartycomputation.com/tpmpc-2024) -->
+
 <!-- 
 [Hugo Blox Builder](https://hugoblox.com) is designed to give technical content creators a seamless experience. You can focus on the content and the Hugo Blox Builder which this template is built upon handles the rest.
 
