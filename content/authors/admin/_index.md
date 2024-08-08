@@ -183,4 +183,4 @@ awards:
 
 ## About Me
 
-I am a researcher in the field of multi-party secure computation, with a focus on reducing communication complexity of MPC protocols for either general or specific compuation problems. My research goal is to promote the adpation of MPC-based PETs (privacy-enhancing technologies) into real-world industries.
+I am a researcher in the field of multi-party secure computation, with a focus on reducing communication complexity of MPC protocols for either general or specific compuation problems. My research goal is to promote the adaption of MPC-based PETs (privacy-enhancing technologies) into real-world industries.
