@@ -5,7 +5,7 @@
 
 # Appearance
 appearance:
-  mode: system
+  mode: dark
   color: emerald
 
 # SEO
@@ -33,19 +33,19 @@ header:
     blox: "navbar"
     fixed_to_top: true
     show_search: false
-    show_theme_chooser: true
+    show_theme_chooser: false
     logo:
       text: "Nan Cheng"
 
 # Site footer
-footer:
-  copyright:
-    notice: '© {year} Me. This work is licensed under {license}'
-    license:
-      enable: true
-      allow_derivatives: false
-      share_alike: true
-      allow_commercial: false
+# footer:
+#   copyright:
+#     notice: '© {year} Me. This work is licensed under {license}'
+#     license:
+#       enable: true
+#       allow_derivatives: false
+#       share_alike: true
+#       allow_commercial: false
 
 # Localization
 locale:
