@@ -32,7 +32,7 @@ sections:
           parallax: false
   - block: markdown
     content:
-      title: '📚 My Research'
+      title: '🔍 My Research'
       subtitle: ''
       text:  |- 
         Function secret sharing is a primitive that effectively computes some of the non-liear functionalites in one online evaluation round, at the cost of larger computation overhead at the meantime. My research focuses on multi-party secure computation, specifically on enhancing concrete efficiency through the design of more efficient cryptographic primitives or the design of specialized protocols. These protocols aim to improve efficiency in various secure computation challenges, including Private Set Intersection (PSI), secure machine learning inference, and secure aggregation, etc. My goal is to integrate efficient MPC technologies into practical applications.
@@ -42,20 +42,20 @@ sections:
         If you share similar intersts, please feel free to contact me for collaborations 😃
     design:
       columns: '1'
+  # - block: collection   #####11.09.2024 Here I comment out to remove duplicates
+  #   content:
+  #     title: Featured Publications
+  #     filters:
+  #       folders:
+  #         - publication
+  #       featured_only: true
+  #   design:
+  #     view: article-grid
+  #     columns: 2
   - block: collection
     id: papers
     content:
-      title: Featured Publications
-      filters:
-        folders:
-          - publication
-        featured_only: true
-    design:
-      view: article-grid
-      columns: 2
-  - block: collection
-    content:
-      title: Recent Publications
+      title: 📚 Recent Publications
       text: ""
       filters:
         folders:

@@ -39,3 +39,8 @@ We're an open source movement that depends on your support to stay online and th
 -->
 
 Edit corresponding content/*.md files to keep it updated.
+
+
+### Commands to test this project locally
+
+hugo server

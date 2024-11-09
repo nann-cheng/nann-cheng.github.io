@@ -49,6 +49,7 @@ profiles:
 interests:
   - Multi-party Secure Computation
   - Zero knowledge proof systems
+  - Post quantum cryptography
 
 education:
   - area: PhD Applied Cryptography
@@ -184,4 +185,4 @@ awards:
 
 I specialize in multi-party secure computation, with a focus on reducing communication complexity of MPC protocols for either general or specific compuation problems. I hope my work will help accelerate the adaption of privacy-enhancing technologies (PETs) in real-world industries.
 
-Outside of my research, I like hiking and reading a wide range of books, particularly in history and philosophy.
+Outside of my research, I enjoy hiking and reading a wide range of books, particularly in history and philosophy.

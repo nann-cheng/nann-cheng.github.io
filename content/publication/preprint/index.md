@@ -14,27 +14,20 @@ publishDate: "2024-04-08T00:00:00Z"
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
 # Enter a publication type from the CSL standard.
-publication_types: ["article"]
+# publication_types: ["article"]
 
 # Publication name and optional abbreviated publication name.
 publication: ""
 publication_short: "eprint 2024"
 
-abstract: |- 
-  A distributed OPRF allows a client to evaluate a pseudorandom function on an input chosen by the client using a distributed key shared among multiple servers. This primitive ensures that the servers learn nothing about the input nor the output, and the client learns nothing about the key.
-  We present a post-quantum OPRF in a distributed server setting, which can be computed in a single round of communication between a client and the servers. 
-  The only server-to-server communication occurs during a precomputation phase.
-  The algorithm is based on the Legendre PRF which can be computed from a single MPC multiplication among the servers. 
-  To this end we propose two MPC approaches to evaluate the Legendre PRF based on replicated and optimised secret sharing, respectively. Furthermore, we propose two methods that allows us to perform MPC multiplication in an efficient way that are of independent interest.
-  By employing the latter, we are able to evaluate the Legendre OPRF in a fashion that is quantum secure, verifiable and secure against malicious adversaries under a threshold assumption, as well as computable in a single round of interaction.
-  To the best of our knowledge, our proposed  distributed OPRFs are the first post-quantum secure offering such properties.
-  We also provide an implementation of our protocols, and benchmark it against existing OPRF constructions.
+# abstract: |- 
 
 # Summary. An optional shortened abstract.
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags:
-- Oblivious pseudorandom functions
+- Oblivious pseudorandom function
+- Replicated secret sharing 
 
 featured: true
 
@@ -73,7 +66,19 @@ projects:
 slides: example
 ---
 
- We present a post-quantum OPRF in a distributed server setting, which can be computed in a single round of communication between a client and the servers. The only server-to-server communication occurs during a precomputation phase.
+
+### Abstract
+
+ A distributed OPRF allows a client to evaluate a pseudorandom function on an input chosen by the client using a distributed key shared among multiple servers. This primitive ensures that the servers learn nothing about the input nor the output, and the client learns nothing about the key.
+  We present a post-quantum OPRF in a distributed server setting, which can be computed in a single round of communication between a client and the servers. 
+  The only server-to-server communication occurs during a precomputation phase.
+  The algorithm is based on the Legendre PRF which can be computed from a single MPC multiplication among the servers. 
+  To this end we propose two MPC approaches to evaluate the Legendre PRF based on replicated and optimised secret sharing, respectively. Furthermore, we propose two methods that allows us to perform MPC multiplication in an efficient way that are of independent interest.
+  By employing the latter, we are able to evaluate the Legendre OPRF in a fashion that is quantum secure, verifiable and secure against malicious adversaries under a threshold assumption, as well as computable in a single round of interaction.
+  To the best of our knowledge, our proposed  distributed OPRFs are the first post-quantum secure offering such properties.
+  We also provide an implementation of our protocols, and benchmark it against existing OPRF constructions.
+
+ <!-- We present a post-quantum OPRF in a distributed server setting, which can be computed in a single round of communication between a client and the servers. The only server-to-server communication occurs during a precomputation phase. -->
 
 <!-- 
 This work is driven by the results in my [previous paper](/publication/conference-paper/) on LLMs.

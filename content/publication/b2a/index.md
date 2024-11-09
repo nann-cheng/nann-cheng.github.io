@@ -23,19 +23,20 @@ publishDate: '2023-09-01T00:00:00Z'
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
 # Enter a publication type from the CSL standard.
-publication_types: ['paper-conference']
+# publication_types: ['paper-conference']
 
 # Publication name and optional abbreviated publication name.
-publication: 20th Annual International Conference on Privacy, Security and Trust
+# publication: 20th Annual International Conference on Privacy, Security and Trust
 publication_short: PST 2023
 
-abstract: In this work, we suggest the application of an innovative correlated random tuple for this task in the semi-honest three-party (3PC) setting. This tuple provides the basis for building Boolean-to-arithmetic share conversion protocols. Specifically, we propose two such protocols in the semi-honest 3PC setting, the first protocol takes as input the Boolean secret sharing of a bit, and the second protocol takes as input the Boolean secret sharing of a secret binary string. When it comes to concrete efficiency, the first protocol shows superior performance compared to the existing state-of-the-art in ABY3 (CCS '18). It achieves this by reducing the total required communication from $2\ell$ bits per party to $4\ell/3+1$ bits (including $4\ell/3$ bits in the setup phase, and $1$ bit in the online phase) per party, while maintaining a single round of optimized communication. On the other hand, the second protocol involves two rounds of online communication and its communication cost is comparable to that of ABY2.0 (USENIX'21) that relies on correlated oblivious transfer.
+# abstract: 
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+# summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags:
   - Boolean to Arithmetic SS conversion 
+  - Three-party Secure Computation
 
 # Display this page in the Featured widget?
 featured: false
@@ -77,7 +78,11 @@ projects:
 slides: example
 ---
 
-The advantage of mixed-protocol multi-party secure computation frameworks lies in their ability to utilize different sharing types optimally for diverse tasks. A key module in these frameworks are Boolean-to-arithmetic secret sharing conversion protocols, which transfer a secret value from Boolean secret sharing to arithmetic secret sharing. This conversion process can either take in the Boolean secret sharing of a bit or a secret binary string.
+### Abstract
+
+In this work, we suggest the application of an innovative correlated random tuple for this task in the semi-honest three-party (3PC) setting. This tuple provides the basis for building Boolean-to-arithmetic share conversion protocols. Specifically, we propose two such protocols in the semi-honest 3PC setting, the first protocol takes as input the Boolean secret sharing of a bit, and the second protocol takes as input the Boolean secret sharing of a secret binary string. When it comes to concrete efficiency, the first protocol shows superior performance compared to the existing state-of-the-art in ABY3 (CCS '18). It achieves this by reducing the total required communication from {{< math >}}$2\ell${{< /math >}} bits per party to {{< math >}}$4\ell/3+1${{< /math >}} bits (including {{< math >}}$4\ell/3${{< /math >}} bits in the setup phase, and one single bit in the online phase) per party, while maintaining a single round of optimized communication. On the other hand, the second protocol involves two rounds of online communication and its communication cost is comparable to that of ABY2.0 (USENIX'21) that relies on correlated oblivious transfer.
+
+<!-- The advantage of mixed-protocol multi-party secure computation frameworks lies in their ability to utilize different sharing types optimally for diverse tasks. A key module in these frameworks are Boolean-to-arithmetic secret sharing conversion protocols, which transfer a secret value from Boolean secret sharing to arithmetic secret sharing. This conversion process can either take in the Boolean secret sharing of a bit or a secret binary string. -->
 
 <!-- {{% callout note %}}
 Click the _Cite_ button above to demo the feature to enable visitors to import publication metadata into their reference management software.
