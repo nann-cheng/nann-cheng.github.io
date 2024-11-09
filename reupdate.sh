@@ -1,6 +1,8 @@
 #!/bin/bash
 
+# copy source file
 cp static/uploads/cartoon.png public/media/icon_nan.png
+
 # Define the variables
 index_file="public/index.html"  # Update this to the path of your index.html file
 old_icon='<link rel="icon" type="image/png" href="/media/icon_hu3247630877640252165.png" />'
