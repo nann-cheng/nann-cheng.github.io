@@ -48,8 +48,7 @@ profiles:
 
 interests:
   - Multi-party Secure Computation
-  - Function Secret Sharing
-  - Pseudorandom Correlations
+  - Zero knowledge proof systems
 
 education:
   - area: PhD Applied Cryptography
@@ -183,4 +182,6 @@ awards:
 
 ## About Me
 
-I am a researcher in the field of multi-party secure computation, with a focus on reducing communication complexity of MPC protocols for either general or specific compuation problems. My research goal is to promote the adaption of MPC-based PETs (privacy-enhancing technologies) into real-world industries.
+I specialize in multi-party secure computation, with a focus on reducing communication complexity of MPC protocols for either general or specific compuation problems. I hope my work will help accelerate the adaption of privacy-enhancing technologies (PETs) in real-world industries.
+
+Outside of my research, I like hiking and reading a wide range of books, particularly in history and philosophy.

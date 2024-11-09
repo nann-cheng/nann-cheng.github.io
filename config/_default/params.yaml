@@ -34,8 +34,8 @@ header:
     fixed_to_top: true
     show_search: false
     show_theme_chooser: false
-    logo:
-      text: "Nan Cheng"
+    # logo:
+    #   text: "Nan Cheng"
 
 # Site footer
 # footer:
