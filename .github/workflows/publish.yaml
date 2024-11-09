@@ -53,6 +53,11 @@ jobs:
         hugo --minify --baseURL "${{ steps.pages.outputs.base_url }}/"
     - name: Replace favicon and remove hugo blox footer
       run: |
+        if [ -f public/index.html ]; then
+          echo "index.html exists."
+        else
+          echo "index.html does not exist."
+        fi
         # copy source file
         cp static/uploads/cartoon.png public/media/icon_nan.png
         # Define the variables
@@ -63,7 +68,7 @@ jobs:
         # Use sed to replace the old icon line with the new icon line
         sed -i "s|$old_icon|$new_icon|" "$index_file"
         # Use sed to delete the block starting from <div class="page-footer"> to </div>
-        sed -i '/<div class="page-footer">/,/<\/div>/d' "$index_file"
+        sed -i '/<div class="page-footer">/,/<\/div>/d' "$index_file" || echo "sed command failed"
     - name: Generate Pagefind search index
       run: npx pagefind --site "public"
     - name: Upload artifact
