@@ -83,11 +83,11 @@ jobs:
         fi
         
         # Use sed to delete the block starting from <div class="page-footer"> to </div>
-        if grep -q '<div class=page-footer>' "$index_file"; then
-            sed -i '/<div class=page-footer>/,/<\/div>/d' "$index_file" && echo "Footer block removed successfully." || echo "sed command failed."
-        else
-            echo "No footer block found"
-        fi
+        #if grep -q '<div class=page-footer>' "$index_file"; then
+         #   sed -i '/<div class=page-footer>/,/<\/div>/d' "$index_file" && echo "Footer block removed successfully." || echo "sed command failed."
+        #else
+        #    echo "No footer block found"
+        #fi
     - name: Generate Pagefind search index
       run: npx pagefind --site "public"
     - name: Upload artifact
