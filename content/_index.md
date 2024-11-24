@@ -64,16 +64,29 @@ sections:
         exclude_featured: false
     design:
       view: citation
-  - block: collection
+  
+  - block: markdown
     id: talks
     content:
-      title: Recent & Upcoming Talks
-      filters:
-        folders:
-          - event
+      title: '🎤 Talks'
+      subtitle: ''
+      text:  |- 
+        *  <small>**SwissCryptoday 2024, Aarhus Crypto Seminar** on "Communication Optimization in SS-FSS Hybrid 2PC"</small>
+        *  <small>**NordiCrypt Fall 2024, IEEE Euro S&P 2024** on "Efficient Two-Party Secure Aggregation via Incremental Distributed Point Function"</small>
+        * <small>**AsiaCCS 2024** on "Nomadic: Normalising Maliciously-Secure Distance with Cosine Similarity for Two-Party Biometric Authentication"</small>
+        * <small>**PST 2023** on "Efficient Three-party Boolean-to-Arithmetic Share Conversion"</small>
     design:
-      view: article-grid
-      columns: 1
+      columns: '1'
+  # - block: collection
+  #   id: talks
+  #   content:
+  #     title: '🎤 Talks'
+  #     filters: 
+  #       folders:
+  #         - talks
+  #   design:
+  #     # view: article-grid
+  #     columns: 1
   - block: collection
     id: news
     content:
